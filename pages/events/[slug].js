@@ -1,5 +1,5 @@
+import Layout from "@/components/Layout";
 import { useRouter } from "next/router";
-import Layout from "../../components/Layout";
 
 export default function MyEvents() {
   const router = useRouter();
